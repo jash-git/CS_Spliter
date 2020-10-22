@@ -1,0 +1,22 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\bin\Debug\CS_Spliter.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\bin\Debug\CS_Spliter.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\obj\x86\Debug\CS_Spliter.Form1.resources
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\obj\x86\Debug\CS_Spliter.Properties.Resources.resources
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\obj\x86\Debug\CS_Spliter.csproj.GenerateResource.Cache
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\obj\x86\Debug\CS_Spliter.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_Spliter\obj\x86\Debug\CS_Spliter.pdb
+D:\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.exe
+D:\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.pdb
+D:\Visual project code\CS_Spliter\CS_Spliter\bin\Debug\CS_Spliter.exe
+D:\Visual project code\CS_Spliter\CS_Spliter\bin\Debug\CS_Spliter.pdb
+D:\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.Form1.resources
+D:\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.Properties.Resources.resources
+D:\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\bin\Debug\CS_Spliter.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\bin\Debug\CS_Spliter.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.Form1.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.Properties.Resources.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\CS_Spliter\CS_Spliter\obj\x86\Debug\CS_Spliter.csproj.GenerateResource.Cache
